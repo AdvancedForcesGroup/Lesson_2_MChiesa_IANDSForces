@@ -1,0 +1,73 @@
+---
+title: "Intermolecular and Surface forces"
+author: "S Santos"
+date: "Sunday, September 21, 2014"
+output: ioslides_presentation
+---
+
+
+# Intermlecular forces | forces between atoms
+
+## Outline
+
+- You need to do some work this week to find information on your own. Detailed in this document. 
+
+- Dr Chiesa will go through some of the general aspects 
+
+However **each lesson this week** is the foundation of a project that will count  20-25% of the final grade. It will be ongoing until the end of the course. It will be discussed later. 
+
+## Work to do before attenting the lesson
+
+- You need to look for information on the keywords in this file before attending the lesson or during the week. 
+
+- Please find definitions, information, etc. on the internet. Wikipedia is ok!
+
+
+## Two projects will be defined from this lesson
+
+* Project 2: *Title*: **van der Waals and Cassimir forces: Retardation and
+frequency effects on London dispersion forces** 
+
+One group - Group 1 - will lead this project (2 month project). 20-25% of the final grade. To be posted.
+
+* Project 3: *Title*: **Physical meaning and intrpretation of the Hamaker
+constant: relationships between the Hamaker constant and chemical bonds**
+
+One group - Group 2 - will lead this project (2 month project). 20-25% of the final grade. To be posted.
+
+## Topics: 22 of September 2014
+
+- Intra/Intermolecular forces 
+
+Models, Chemical bonds, Keeson/Deby/London forces 
+
+- Systems of atoms, i.e. spheres, planes, etc. 
+
+Surface energy, the Hamaker constant,  the Derjaguin approximation, 
+the DMT model for repulsive interactions, force of adhesion
+
+<font size="11">
+
+**NOTE**: You can find information on: Reifenberger, R. & Raman, A. Fundamentals of Atomic Force Microscopy: Part 1. Week1. [here](https://nanohub.org/resources/9598)
+
+</font>
+
+
+## Topics: 25 of September 2014
+
+
+- Capillary interactions
+
+
+Please watch Week2 - lesson 1 - of Reifenberger, R. & Raman, A. Fundamentals of Atomic Force Microscopy: Part 1.
+
+
+- You can also find information [here](http://www.sciencedirect.com/science/article/pii/S0001868608001899). 
+
+Butt, H.-J. & Kappl, M. Normal capillary forces. Advances in Colloid and Interface Science 146, 48-60 (2009).
+
+- One of the main books employed in this course also has a chapter on 
+capillary forces. You can find copies in the library. 
+
+Israelachvili, J. Intermolecular & Surface Forces. 2 edn,  (Academic Press, 1991).
+
