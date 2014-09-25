@@ -6,7 +6,7 @@ output: ioslides_presentation
 ---
 
 
-# Intermlecular forces | forces between atoms
+# Intermolecular forces | forces between atoms
 
 ## Outline
 
@@ -28,11 +28,13 @@ However **each lesson this week** is the foundation of a project that will count
 * Project 2: *Title*: **van der Waals and Cassimir forces: Retardation and
 frequency effects on London dispersion forces** 
 
-One group - Group 1 - will lead this project (2 month project). 20-25% of the final grade. To be posted.
+One group - Group 1 - will lead this project (2 month project). 40-50% of the final grade. To be posted.
 
+**IMPORTANT NOTE**: Project 3 has changed. Please ignore!
 * Project 3: *Title*: **Physical meaning and intrpretation of the Hamaker
 constant: relationships between the Hamaker constant and chemical bonds**
 
+**IMPORTANT NOTE**: Group 2 will focus on capillary interactions instead, i.e. this will be project 3 and will carry the same weight as project 2 for Group 1. 
 One group - Group 2 - will lead this project (2 month project). 20-25% of the final grade. To be posted.
 
 ## Topics: 22 of September 2014
